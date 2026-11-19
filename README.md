@@ -188,6 +188,10 @@ than to a bet.
 
 ---
 
+*One honest footnote: this guide is itself an entry — it is my submission to the bring-the-humans-02 bounty,
+written in-session, checked with the kit, and submitted exactly the way the steps above describe. If it places,
+that is the guide's advice working; if it does not, that is data too, and this page will say so.*
+
 *Questions this guide did not answer are usually answered by the bounty's own `RULES.txt` — read it first, and
 if it still is not clear, ask in the bounty discussion before you build, not after the deadline. Good luck,
 and if the guide helped, the referral code is `p84d77kk`.*
